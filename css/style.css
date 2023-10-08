@@ -17,6 +17,7 @@ body {
 
 .nav__logo {
     float: left;
+    filter: invert(100%);
 }
 .nav__log_in {
     float: right;
